@@ -9,6 +9,7 @@ tests.
 
 - Issue diagnosis: **25 USDC**
 - Verified patch with focused tests: **40 USDC**
+- Agent revenue evidence audit (up to three flows): **40 USDC**
 - Small related-issue batches: scope and price agreed before work starts
 
 Payment is requested only after the agreed deliverable is available for review.
